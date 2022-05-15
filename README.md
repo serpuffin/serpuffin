@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serpuffin
 - 👀 I’m interested in learning how puzzles work, and solving them
-- 🌱 I’m currently learning Network+
+- 🌱 I’m currently enrolled in Google's Data Analytics Certifcate Program
 - 💞️ I’m looking to collaborate on anything that seems interesting
 - 📫 How to reach me ... uh. I need to work on this.
 
