@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @serpuffin
-- 👀 I’m interested in learning how puzzles work, and solving them
-- 🌱 I’m currently enrolled in Google's Data Analytics Certifcate Program
-- 💞️ I’m looking to collaborate on anything that seems interesting
+- 👋 Hi, I’m Puffin
+- 👀 I love puzzles and worldbuilding - how smaller pieces fit together to make a bigger picture
+- 🌱 I have two coffee trees - no fruit yet (they're 3yrs old)
 - 📫 How to reach me ... uh. I need to work on this.
 
 <!---
